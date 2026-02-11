@@ -1,0 +1,5 @@
+{
+  "name": "ChatGPT Clone",
+  "description": "A high-fidelity ChatGPT-style clone powered by Gemini 3 Flash, featuring real-time streaming, conversation history, and a modern UI.",
+  "requestFramePermissions": []
+}

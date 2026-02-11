@@ -1,22 +1,20 @@
-# Java Lab Work
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-## Student Details
+# Run and deploy your AI Studio app
 
-- *Name:* muhammad sufyan khan.  
-- *Roll No:* 3044 
-- *Course:* Object-Oriented Programming  
-- *Semester:* 2nd  
-- *Instructor:* Sir Pamir  
+This contains everything you need to run your app locally.
 
----
+View your app in AI Studio: https://ai.studio/apps/drive/128cDvqkJ8zbQ59UOnq_zre69nkdY3pz6
 
-## Repository Description
+## Run Locally
 
-This repository contains the files for *Lab 1* and *Lab 3* of our college *Object-Oriented Programming (OOP)* practical.
+**Prerequisites:**  Node.js
 
----
 
-## Contents
-
-- *Lab 1:* Basic OOP Programs  
-- *Lab 3:* Advanced OOP Programs
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
